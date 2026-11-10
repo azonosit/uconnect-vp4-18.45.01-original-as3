@@ -1,0 +1,43 @@
+# Uconnect VP4 (RA4) – Original ActionScript Sources
+
+## Overview
+
+This repository contains the original English-language ActionScript 3 (AS3) code extracted and decompiled from the FCA/Harman Uconnect VP4 (RA4) infotainment system, firmware version **18.45.01 (North America)**.
+
+The code originates from the factory Adobe Flash/AIR-based Human Machine Interface (HMI) used in Uconnect 8.4-inch infotainment systems.
+
+## Technical Information
+
+- **Platform:** FCA / Harman Uconnect VP4 (RA4)
+- **Firmware:** 18.45.01 (NA)
+- **Operating System:** QNX Neutrino 6.5
+- **HMI:** Adobe Flash / AIR
+- **Programming Language:** ActionScript 3.0
+- **Source:** Factory SWF files, decompiled using JPEXS FFDec
+- **Language:** English (original North American version)
+
+## Purpose
+
+This repository is intended for research, reverse engineering, documentation, and development related to the Uconnect VP4 platform.
+
+The extracted code can be used to study:
+
+- Original HMI architecture and user interface logic
+- Menu structures, navigation, and system settings
+- Localization and language resources
+- Communication between HMI components
+- Development of custom UI features and modifications
+
+## Important Notes
+
+The files represent decompiled factory code, not the original Adobe development project. Some source-level information may have been lost during compilation and decompilation.
+
+No Hungarian translations, custom menus, Speed Lockout modifications, or other aftermarket changes are included.
+
+## Disclaimer
+
+This is an independent research project and is not affiliated with or endorsed by Stellantis, FCA, Harman, or their subsidiaries.
+
+All original software copyrights and trademarks remain the property of their respective owners.
+
+**For educational and research purposes only.**
